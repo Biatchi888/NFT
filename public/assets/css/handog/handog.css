@@ -1,0 +1,70 @@
+#mc-headerr {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+:root {
+  overflow-x: hidden;
+}
+
+.fa.fa-arrow-left {
+}
+
+#rAbout_mc {
+  border-radius: 20px;
+  margin-left: 12px;
+}
+
+#col_mc_info {
+  border-radius: 20px;
+}
+
+#about_mc_heading {
+  font-weight: 800;
+}
+
+#heading_tech_mc {
+  font-weight: 800;
+  margin-bottom: 5%;
+}
+
+#gd_mc {
+  font-weight: 800;
+}
+
+#ps_mc {
+  font-weight: 800;
+}
+
+#mo_mc {
+  font-weight: 800;
+}
+
+#cont_proj_mc {
+  border-radius: 20px;
+}
+
+#education_mc_heading {
+  font-weight: 800;
+}
+
+#obj_mc_heading {
+  font-weight: 800;
+}
+
+#mc_hobby_heading {
+  font-weight: 800;
+}
+
+#mc_contact_heading {
+  font-weight: 800;
+}
+
+#to-top-mcc {
+  position: sticky;
+}
+
+#div-toppp {
+  position: sticky;
+}
+

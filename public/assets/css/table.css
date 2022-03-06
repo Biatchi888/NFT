@@ -1,0 +1,72 @@
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+#myInput {
+  background-color: rgb(4,251,58);
+  font-family: 'Shapiro 35 Feather Text';
+  width: 160px;
+  height: 40px;
+  margin-bottom: 10px;
+  /*border-color: white;*/
+  /*border: 2px;*/
+}
+
+.highlight {
+  background: yellow;
+}
+
+.tbl-header {
+  background-color: rgba(13,166,0,0.68);
+  font-family: 'Shapiro 35 Feather Text';
+  /*color: rgb(20,255,0);*/
+  border: 1px solid rgb(20,255,0);
+}
+
+.tbl-content {
+  height: 300px;
+  overflow-x: auto;
+  margin-top: 0px;
+  border: 1px solid rgb(20,255,0);
+  background-color: rgba(6,41,3,0.52);
+}
+
+th {
+  padding: 20px 18px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 11px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+td {
+  padding: 15px;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 300;
+  font-size: 15px;
+  color: #fff;
+  border-bottom: solid 1px rgba(255,255,255,0.1);
+}
+
+section {
+  margin: -45px;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+section {
+}
+

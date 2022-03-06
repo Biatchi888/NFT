@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Inter';
+	src: url(../../assets/fonts/Inter-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Inter-BoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+}

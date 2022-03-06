@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Shapiro 5 Light Fly';
+	src: url(../../assets/fonts/Shapiro-5LightFly.woff2) format('woff2'),
+	url(../../assets/fonts/Shapiro-5LightFly.woff) format('woff');
+	font-weight: 100;
+	font-style: normal;
+}

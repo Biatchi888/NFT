@@ -1,0 +1,22 @@
+.navbar {
+  /*position: sticky;*/
+  width: 100%;
+  transition: background-color 1s;
+  /*background-color: rgba(142,17,173,0.72);*/
+  padding: 10px;
+  top: 0;
+  /*transform: scale(1);*/
+  font-size: 18px;
+  font-family: 'Shapiro 35 Feather Text';
+  /*background: linear-gradient(to right, rgb(79,8,149) 0%, rgba(8,107,149,0.78) 0%, rgba(52,133,255,0) 100%);*/
+  background-image: linear-gradient(to right, rgba(164,23,240,0.82), rgba(150,29,236,0.6), rgba(137,33,231,0.59), rgba(122,36,226,0.54), rgba(108,38,221,0.44), rgba(83,74,236,0.43), rgba(52,99,248,0.41), rgba(0,120,255,0.47), rgba(0,162,255,0.31), rgba(0,196,255,0.2), rgba(0,225,255,0.19), rgba(95,251,241,0.28));
+}
+
+.rect {
+  width: 100%;
+  height: 152vh;
+}
+
+div {
+}
+

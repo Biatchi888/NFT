@@ -1,0 +1,10 @@
+.my-custom-scrollbar {
+  position: relative;
+  width: 1195px;
+  height: 4307px;
+  overflow: auto;
+}
+
+.my-custom-scrollbar.my-custom-scrollbar-primary {
+}
+

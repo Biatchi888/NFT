@@ -1,0 +1,32 @@
+:root {
+  --smaller: .75;
+}
+
+li {
+  display: inline-block;
+  font-size: 18px;
+  list-style-type: none;
+  padding: .9em;
+  text-transform: uppercase;
+  font-family: 'Shapiro 35 feather text';
+}
+
+li span {
+  display: block;
+  font-size: 18px;
+}
+
+li {
+  font-size: calc(14px * var(--smaller));
+}
+
+li span {
+  font-size: calc(31px * var(--smaller));
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+

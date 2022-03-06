@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'PP Neue Machina';
+	src: url(../../assets/fonts/PPNeueMachina-Ultrabold.woff2) format('woff2'),
+	url(../../assets/fonts/PPNeueMachina-Ultrabold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}

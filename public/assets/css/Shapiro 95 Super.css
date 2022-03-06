@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Shapiro 95 Super';
+	src: url(../../assets/fonts/e40f26981e133c8c76ad3601df000ed1.woff2) format('woff2'),
+	url(../../assets/fonts/e40f26981e133c8c76ad3601df000ed1.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+}

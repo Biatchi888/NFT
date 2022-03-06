@@ -1,0 +1,26 @@
+.text {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 4.4vw;
+  font-family: 'Shapiro 95 Super';
+  /*text-align: left;*/
+  margin-left: -2vw;
+  /*margin-top: -14vw;*/
+  /*padding-top: 5vw;*/
+}
+
+.text-dark {
+  /*text-transform: uppercase;*/
+  /*background: linear-gradient(to right, #30CFD0 0%, #330867 100%);*/
+  /*-webkit-background-clip: text;*/
+  /*-webkit-text-fill-color: transparent;*/
+  font-size: 2.5vw;
+  font-family: 'Shapiro 35 feather text';
+  text-align: left;
+  margin-left: -2vw;
+  margin-top: -3vw;
+  /*padding-left: -1vw;*/
+}
+.b{white-space:pre}

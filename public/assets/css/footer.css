@@ -1,0 +1,51 @@
+.cardfoot {
+  padding: 2% 7%;
+  color: #fdfdff;
+  background-color: rgba(179,16,255,0.35);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul > li {
+  padding: 4px;
+}
+
+ul > li:hover {
+  color: #957bda;
+  cursor: pointer;
+}
+
+hr {
+  border-width: 3px;
+}
+
+.social > i {
+  padding: 1%;
+  font-size: 15px;
+}
+
+.social > i:hover {
+  color: #957bda;
+  cursor: pointer;
+}
+
+.policy > div {
+  padding: 4px;
+}
+
+.heading {
+  font-family: 'shapiro 35 feather text';
+  color: white;
+}
+
+.divider {
+  border-top: 2px solid rgba(189, 196, 203, 0.5);
+}
+
+.container-fluid.mt-5 {
+}
+
